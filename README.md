@@ -1,2 +1,6 @@
-# ProbabilidadeEstatisca
-Disciplina focada em capacitar o estudante no domínio dos métodos estatísticos fundamentais, bem como na solução dos procedimentos para análise quantitativa de dados.
+# Probabilidade e Estatística
+
+-  Professor: Sergio Kato
+-  Código: 95304-04
+-  Semestre: 2023/1
+-  Nota: 7.8
